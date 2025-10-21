@@ -10,7 +10,7 @@ body {
 .bg-parallax {
   position: fixed;
   inset: 0;
-  background: url("./unnamed (1).png") center center / cover no-repeat;
+  background: url("./bg.png") center center / cover no-repeat;
   z-index: 0;
   will-change: transform;
   transform: translate3d(0,0,0) scale(1.03); /* slight scale to avoid edges on move */
